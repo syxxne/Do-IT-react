@@ -72,7 +72,7 @@ export default function About() {
               <div className="about__skills--content">
                 <div className="about__skills--box">
                   <img
-                    src="images/html5.png"
+                    src="https://syxxne.github.io/portfolio/images/html5.png"
                     alt="html5"
                     className="about__skills--icon"
                   />
@@ -80,56 +80,56 @@ export default function About() {
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/css.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/css.png"
+                    alt="css"
                     className="about__skills--icon"
                   />
                   CSS
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/javascript.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/javascript.png"
+                    alt="javascript"
                     className="about__skills--icon"
                   />
                   JavaScript
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/sass.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/sass.png"
+                    alt="sass"
                     className="about__skills--icon"
                   />
                   Sass
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/react.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/react.png"
+                    alt="react"
                     className="about__skills--icon"
                   />
                   React
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/nodejs.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/nodejs.png"
+                    alt="node.js"
                     className="about__skills--icon"
                   />
                   Node.js
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/express.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/express.png"
+                    alt="express"
                     className="about__skills--icon"
                   />
                   Express
                 </div>
                 <div className="about__skills--box">
                   <img
-                    src="images/flutter.png"
-                    alt="html5"
+                    src="https://syxxne.github.io/portfolio/images/flutter.png"
+                    alt="flutter"
                     className="about__skills--icon"
                   />
                   Flutter

@@ -49,19 +49,19 @@ export default function Projects() {
                   className="projects__carousel"
                 >
                   <div>
-                    <img src="/images/1-1.jpg" />
+                    <img src="https://syxxne.github.io/portfolio/images/1-1.JPG" />
                   </div>
                   <div>
-                    <img src="/images/1-2.jpg" />
+                    <img src="https://syxxne.github.io/portfolio/images/1-2.JPG" />
                   </div>
                   <div>
-                    <img src="/images/1-3.jpg" />
+                    <img src="https://syxxne.github.io/portfolio/images/1-3.JPG" />
                   </div>
                   <div>
-                    <img src="/images/1-4.jpg" />
+                    <img src="https://syxxne.github.io/portfolio/images/1-4.JPG" />
                   </div>
                   <div>
-                    <img src="/images/1-5.jpg" />
+                    <img src="https://syxxne.github.io/portfolio/images/1-5.JPG" />
                   </div>
                 </Carousel>
               </div>
@@ -111,22 +111,22 @@ export default function Projects() {
                   className="projects__carousel"
                 >
                   <div>
-                    <img src="/images/2-1.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-1.png" />
                   </div>
                   <div>
-                    <img src="/images/2-2.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-2.png" />
                   </div>
                   <div>
-                    <img src="/images/2-3.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-3.png" />
                   </div>
                   <div>
-                    <img src="/images/2-4.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-4.png" />
                   </div>
                   <div>
-                    <img src="/images/2-5.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-5.png" />
                   </div>
                   <div>
-                    <img src="/images/2-6.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/2-6.png" />
                   </div>
                 </Carousel>
               </div>
@@ -169,43 +169,43 @@ export default function Projects() {
                   className="projects__carousel"
                 >
                   <div>
-                    <img src="/images/3-1.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-1.png" />
                   </div>
                   <div>
-                    <img src="/images/3-2.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-2.png" />
                   </div>
                   <div>
-                    <img src="/images/3-3.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-3.png" />
                   </div>
                   <div>
-                    <img src="/images/3-4.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-4.png" />
                   </div>
                   <div>
-                    <img src="/images/3-5.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-5.png" />
                   </div>
                   <div>
-                    <img src="/images/3-6.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-6.png" />
                   </div>
                   <div>
-                    <img src="/images/3-7.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-7.png" />
                   </div>
                   <div>
-                    <img src="/images/3-8.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-8.png" />
                   </div>
                   <div>
-                    <img src="/images/3-9.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-9.png" />
                   </div>
                   <div>
-                    <img src="/images/3-10.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-10.png" />
                   </div>
                   <div>
-                    <img src="/images/3-11.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-11.png" />
                   </div>
                   <div>
-                    <img src="/images/3-12.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-12.png" />
                   </div>
                   <div>
-                    <img src="/images/3-13.png" />
+                    <img src="https://syxxne.github.io/portfolio/images/3-13.png" />
                   </div>
                 </Carousel>
               </div>

@@ -25,7 +25,11 @@ export default function Contact() {
               <h3> 📞 +82 10-1234-5678</h3>
             </div>
             <div className="contact__img">
-              <img src="/images/wordcloud.png" width={"400px"} />
+              <img
+                src="https://syxxne.github.io/portfolio/images/wordcloud.png"
+                width={"400px"}
+                alt="wordcloud"
+              />
             </div>
           </div>
         </Fade>
