@@ -51,7 +51,7 @@ export default function About() {
               </div>
               <div className="about__experience--content">
                 <div className="about__experience--box">
-                  📚 GDSC CAU <br />
+                  📚 GDSC <br />
                   📆 2021.09 - 2022.07
                 </div>
                 <div className="thin-divider"></div>
