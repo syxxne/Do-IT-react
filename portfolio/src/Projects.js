@@ -151,7 +151,7 @@ export default function Projects() {
                 </button>
                 <button
                   className="projects__button"
-                  onClick={() => window.open("http://3.39.211.126/")}
+                  onClick={() => window.open("http://3.34.134.92/")}
                 >
                   LINK
                 </button>
